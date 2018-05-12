@@ -1,0 +1,38 @@
+_repo: Love-Story_32078
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Orban, Paul
+    birthdate: 1896
+    deathdate: 1974
+    gutenberg_agent_id: '34272'
+    url: http://www.gutenberg.org/2009/agents/34272
+covers:
+- cover_type: archival
+  image_path: 32078-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cox, Irving E.
+    gutenberg_agent_id: '31427'
+    url: http://www.gutenberg.org/2009/agents/31427
+description: On one level, this witty short story describes a future in which traditional
+  gender roles are reversed and men have quite literally become enslaved to the capricious
+  whims of their female masters. On another level, ""Love Story"" can be read as a
+  satirical indictment of the increasing materialism that took hold of middle-class
+  America in the 1950s.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32078'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: Love Story
+url: http://www.gutenberg.org/ebooks/32078
